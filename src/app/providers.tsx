@@ -7,7 +7,7 @@ const Providers = ({ children }: { children: React.ReactNode }) => {
     return (
         <ReduxProvider>
             <QueryProvider>
-                <ThemeProvider attribute='class test' defaultTheme='system' enableSystem disableTransitionOnChange>
+                <ThemeProvider attribute='class' defaultTheme='system' enableSystem disableTransitionOnChange>
                     {children}
                 </ThemeProvider>
             </QueryProvider>
