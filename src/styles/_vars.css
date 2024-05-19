@@ -1,0 +1,85 @@
+:root {
+    --background: #fff;
+    --foreground: #020817;
+
+    --bg-content: #f3f3f3;
+    --bg-content-forground: #1d2839;
+
+    --btn-lang: #d5dfeb;
+    --btn-lang-foreground: #222222;
+
+    --card: #d9d9d9;
+    --card-foreground: #222222;
+
+    --text: #222222;
+    --text-foreground: #ffffff;
+
+    --text-reverse: #ffffff;
+    --text-reverse-foreground: #222222;
+
+    --popover: #fff;
+    --popover-foreground: #020817;
+
+    --primary: #0f1729;
+    --primary-foreground: #f8fafc;
+
+    --secondary: #f1f5f9;
+    --secondary-foreground: #0f1729;
+
+    --muted: #f1f5f9;
+    --muted-foreground: #637288;
+
+    --accent: #f1f5f9;
+    --accent-foreground: #0f1729;
+
+    --destructive: #ef4343;
+    --destructive-foreground: #f8fafc;
+
+    --border: #e1e7ef;
+    --input: #e1e7ef;
+    --ring: #020817;
+
+    --radius: 0.5rem;
+}
+
+.dark {
+    --background: #020817;
+    --foreground: #f8fafc;
+
+    --bg-content: #1d2839;
+    --bg-content-forground: #f3f3f3;
+
+    --btn-lang: #222222;
+    --btn-lang-foreground: #d5dfeb;
+
+    --text: #ffffff;
+    --text-foreground: #222222;
+
+    --text-reverse: #222222;
+    --text-reverse-foreground: #ffffff;
+
+    --card: #222222;
+    --card-foreground: #d9d9d9;
+
+    --popover: #020817;
+    --popover-foreground: #f8fafc;
+
+    --primary: #f8fafc;
+    --primary-foreground: #0f1729;
+
+    --secondary: #1d2839;
+    --secondary-foreground: #f8fafc;
+
+    --muted: #1d2839;
+    --muted-foreground: #94a3b8;
+
+    --accent: #1d2839;
+    --accent-foreground: #f8fafc;
+
+    --destructive: #7d1c1c;
+    --destructive-foreground: #f8fafc;
+
+    --border: #1d2839;
+    --input: #1d2839;
+    --ring: #c8d3df;
+}
